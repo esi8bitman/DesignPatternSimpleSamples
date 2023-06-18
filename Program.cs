@@ -1,11 +1,11 @@
 ﻿namespace Practice;
-using Templete;
+using Visitor;
 
 class Program
 {
 
     static void Main(string[] args)
     {
-        TemplateRunner.Run();
+        VisitorRunner.Run();
     }
 }
