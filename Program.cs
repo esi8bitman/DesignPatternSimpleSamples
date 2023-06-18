@@ -1,11 +1,11 @@
 ﻿namespace Practice;
-using Strategy;
+using Templete;
 
 class Program
 {
 
     static void Main(string[] args)
     {
-        StrategyRunner.Run();
+        TemplateRunner.Run();
     }
 }
